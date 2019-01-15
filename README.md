@@ -35,3 +35,7 @@ The main file can be run from the command line using the following arguments_
 -f meteorological input file name (which should be saved in the folder model_input)
 -m model model (either OSEB or TSEB)
 In the case that no arguments are provided the values from the configuration file are used.
+
+[![DOI](https://zenodo.org/badge/134852988.svg)](https://zenodo.org/badge/latestdoi/134852988)
+
+
